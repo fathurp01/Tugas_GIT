@@ -62,7 +62,11 @@ for i, lokasi in enumerate(data_panen.keys()):
 
 
 
-print("Committttttt")
+print("Committttt")
+
+
+
+
 
 
 
