@@ -62,5 +62,6 @@ for i, lokasi in enumerate(data_panen.keys()):
 
 
 
-        
+print("coba merge")
 print("Fathurrahman Pratama Putra")
+print("Putra Pratama Fathurrahman") 
