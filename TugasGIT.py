@@ -1,3 +1,11 @@
+# Tugas GIT
+#
+# Kode data panen
+# Nama : Fathurrahman Pratama Putra
+# NRP : 152023057
+# Matkul : Pemrograman Dasar
+# Kelas : BB
+
 data_panen = {
     "lokasi1": {
         "nama_lokasi": "Kebun A",
@@ -53,4 +61,4 @@ for i, lokasi in enumerate(data_panen.keys()):
         print(f"Lokasi {data_panen[lokasi]['nama_lokasi']} dalam kondisi baik")
         
         
-        # 
+
