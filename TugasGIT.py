@@ -59,6 +59,8 @@ for i, lokasi in enumerate(data_panen.keys()):
         print(f"Lokasi {data_panen[lokasi]['nama_lokasi']} memerlukan perhatian khusus")
     else:
         print(f"Lokasi {data_panen[lokasi]['nama_lokasi']} dalam kondisi baik")
-        
+
+
+
         
 
