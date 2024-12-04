@@ -62,7 +62,7 @@ for i, lokasi in enumerate(data_panen.keys()):
 
 
 
-print("Committttt")
+print("coba merge")
 
 
 
